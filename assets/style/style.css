@@ -1073,6 +1073,8 @@ footer {
         padding: 37px 15px !important;
     }
 
+    .section-1 article {}
+
     .section-1 article .section-big-text-1 {
         font-size: 53px;
         line-height: 60px;
@@ -1093,8 +1095,8 @@ footer {
 
 
     .section-2 .title {
-        font-size: 35px;
-        line-height: 50px;
+        font-size: 60px;
+        line-height: 80px;
     }
 
     .section-2 .card .card-title {
@@ -1247,8 +1249,9 @@ footer {
     }
 
     .section-1 article {
-        width: 100%;
-        margin-left: 0px;
+        width: 75%;
+        margin: 0 auto;
+        text-align: center;
     }
 
     .section-1 .section-big-text-1 {
@@ -1257,6 +1260,7 @@ footer {
 
     .section-1 .section-small-text-1 {
         font-size: 13px;
+        margin: 15px 0;
     }
 
     .section-1 .action-buttons {
@@ -1273,6 +1277,11 @@ footer {
         width: 100%;
     }
 
+    .section-2 .title {
+        font-size: 35px;
+        line-height: 50px;
+    }
+
     .section-3 .outer-image-here {
         display: none;
     }
@@ -1282,6 +1291,8 @@ footer {
         padding: 0 15px;
         gap: 0px;
         transform: translate(0px, -70px);
+        width: 75%;
+        margin: 0 auto;
     }
 
     .section-3 .card-reverse {
@@ -1312,7 +1323,7 @@ footer {
     }
 
     .section-4 .col-2 {
-        width: 100%;
+        width: 75%;
     }
 
     .section-4 .col-2 .title {
